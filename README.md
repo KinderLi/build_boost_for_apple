@@ -10,25 +10,24 @@ cd ios-boost/boost_1_63_0
 ./ios_boost_1_63_0.sh
 ```
 ### some information
->  Boost Library: atomic regex graph random chrono thread signals filesystem system date_time
->  Arch: armv7s armv7 arm64
+>  Boost Library: atomic regex graph random chrono thread signals filesystem system date_time<br>Arch: armv7s armv7 arm64
 
 ### tips
 >
- armv6
-     iPhone
-     iPhone2
-     iPhone3G
-     First/Second generation of iPod Touch
- armv7
-     iPhone4
-     iPhone4S
- armv7s
-     iPhone5
-     iPhone5C
- arm64
-     iPhone5S
-     iPhone6
+ armv6<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone3G<br>
+&nbsp;&nbsp;&nbsp;&nbsp;First/Second generation of iPod Touch<br>
+ armv7<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone4<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone4S<br>
+ armv7s<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone5C<br>
+ arm64<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone5S<br>
+&nbsp;&nbsp;&nbsp;&nbsp;iPhone6<br>
 
 
 ## For maxosx:
@@ -39,5 +38,4 @@ cd macosx-boost/boost_1_63_0
 ./macosx_boost_1_63_0.sh
 ```
 ### some information
->  Boost Library: atomic regex graph random chrono thread signals filesystem system date_time
->  Arch: i386 x86_64
+>  Boost Library: atomic regex graph random chrono thread signals filesystem system date_time<br>Arch: i386 x86_64
