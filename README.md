@@ -3,7 +3,7 @@ some script for building ios-boost or macosx-boost library
 
 # How to use:
 
-## For ios:
+## For iOS:
 ### start
 ```
 cd ios-boost/boost_1_63_0
@@ -30,7 +30,7 @@ cd ios-boost/boost_1_63_0
 &nbsp;&nbsp;&nbsp;&nbsp;iPhone6<br>
 
 
-## For maxosx:
+## For MacOSX:
 
 ###start
 ```
